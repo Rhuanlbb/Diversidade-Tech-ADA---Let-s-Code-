@@ -1,1 +1,3 @@
-# Diversidade-Tech-ADA---Let-s-Code-
+# Diversidade-Tech-ADA---Let-s-Code
+
+Materiais do curso Diversidade Tech by ADA.
